@@ -1,6 +1,4 @@
-### Hi there 👋
-
-> I'm currently a 15 year old dev from the United Kingdom hoping to go into cybersecurity
+### Hi there 👋 
 
 ## Contact
 
@@ -8,3 +6,5 @@
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=XXXTentacion&count_private=true&theme=radical)
 [![My Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=XXXTentacion&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+##Credits to ![beasleeps](https://github.com/beasleeps) for this concept!
